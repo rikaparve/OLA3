@@ -1,0 +1,4 @@
+Timestamp is: 1730457200.21461Operator is: SASNumber of flights is: 50
+Timestamp is: 1730457368.74021 Operator is: RYR Number of flights is: 331
+Timestamp is: 1730457276.83669Operator is: SASNumber of flights is: 50
+Timestamp is: 1730457368.74021 Operator is: RYR Number of flights is: 331
